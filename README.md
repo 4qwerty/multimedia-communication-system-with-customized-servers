@@ -12,7 +12,7 @@ The system is built using:
 - **Socket.io**: Facilitating real-time, bidirectional event-based communication.
 - **Prisma**: As an ORM for efficient database management.
 - **Tailwind CSS**: For a customizable and modern user interface.
-- **Postge**: Using for data storage.
+- **Postgre**: Using for reliable and scalable data storage.
 
 ## Key Features
 - **Real-Time Communication**: Utilizing Socket.io for instantaneous messaging.
