@@ -1,7 +1,7 @@
 # Thesis: Software for Group Communication System with the Ability to Create Internal Servers and Multimedia Chats Using Web Technologies
 
 ## Abstract
-This thesis presents the development of a comprehensive group communication system, emphasizing the creation of internal servers and multimedia chats. The project leverages modern web technologies including Next.js 13, React, Socket.io, Prisma, Tailwind CSS, and MySQL.
+This thesis presents the development of a comprehensive group communication system, emphasizing the creation of internal servers and multimedia chats. The project leverages modern web technologies including Next.js 13, React, Socket.io, Prisma, Tailwind CSS, and PostgreSQL.
 
 ## Introduction
 The aim of this project is to explore the capabilities of advanced web technologies in building a robust and versatile communication platform. This platform not only supports real-time messaging and multimedia interactions but also offers the flexibility to create and manage internal communication servers.
